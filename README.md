@@ -21,9 +21,9 @@ We would appreciate it if you decide to use this project. Please include credit 
 
 1. Open `index.html` in your web browser
 2. Click on one of the three choices at the bottom:
-   - 🪨 Rock
-   - 📄 Paper
-   - ✂️ Scissors
+   - ✊ Rock
+   - ✋ Paper
+   - ✌️ Scissors
 3. The computer will automatically make its choice
 4. The result will be displayed in the center
 5. The game will automatically restart after a few seconds
